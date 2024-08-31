@@ -2,6 +2,8 @@
 name = "otp-stream"
 version = "0.1.0"
 edition = "2021"
+license = "CC0-1.0"
+description = "Encrypt a stream by xoring it with another stream or an extensible output function"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
