@@ -1,13 +1,14 @@
 # otp-stream
 
 ## Description
-Project otp-stream
+Stream encryption library using One-Time Pad (OTP) logic, XORing streams with an extensible output function (SHA3).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Implement stream encryption
+- [ ] Integrate with `embedded-io`
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
